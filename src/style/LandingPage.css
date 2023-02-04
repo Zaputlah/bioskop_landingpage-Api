@@ -1,0 +1,56 @@
+.myBG{
+    height: 100vh;
+    background: url("../assets/images/bg/main.jpg");
+    background-size: cover;
+}
+
+.trending{
+    height: auto;
+    background: url("../assets/images/bg/bg1.jpg");
+    background-size: cover;
+}
+
+.serialTv{
+    height: auto;
+    background: url("../assets/images/bg/bg2.jpg");
+    background-size: cover;
+}
+
+.artis{
+    height: auto;
+    background: url("../assets/images/bg/bg3.jpg");
+    background-size: cover;
+}
+
+.intro-2{
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.intro{
+   height: 300px;
+   display: flex;
+   justify-content: end;
+   align-items: end; 
+}
+
+.title{
+    font-size: 3rem;
+    font-weight: 800;
+    line-height: 1;
+    text-shadow: 2px 2px black;
+    letter-spacing: 4px;
+}
+
+.MovieImage{
+    height: 200px;
+    margin: 2px;
+    padding: 2px;
+}
+
+.images{
+    height: 500px;
+}
